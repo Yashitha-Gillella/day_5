@@ -1,3 +1,4 @@
-a={1:'one',2:'True'}
+b=[1,2,3,4]
+a={1:b,2:'True'}
 print(type(a))
 print(a)

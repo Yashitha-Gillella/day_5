@@ -1,0 +1,9 @@
+set={1,94,4.342,'frog'}
+f=frozenset(set)
+d={"set":set,"hi":123,"frozen":f}
+print(set)
+print(type(set))
+print(f)
+print(type(f))
+print(d)
+print(type(d))
